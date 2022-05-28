@@ -6,7 +6,7 @@ Try to duplicate the image below by adjusting the CSS code provided.
 Use margin and padding to adjust the spaces between divisions and use display: flex; 
 to be able to put each block in its proper place.
 
-
+![](https://github.com/HebaAlJassir/UX-UI-Week1-FlexOurBlock/blob/main/position-blocks.png)
 
 # Here's our HTML code:
 
